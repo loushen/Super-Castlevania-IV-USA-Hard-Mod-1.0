@@ -1,0 +1,244 @@
+﻿{
+  "Cheats": [
+    {
+      "Description": "Double Shot gives you a Triple Shot",
+      "Type": "SnesGameGenie",
+      "Enabled": true,
+      "Codes": "EE2B-A767"
+    },
+    {
+      "Description": "Faster timer",
+      "Type": "SnesGameGenie",
+      "Enabled": false,
+      "Codes": "FE6D-DDA6"
+    },
+    {
+      "Description": "Fully powered whip with first power-up",
+      "Type": "SnesGameGenie",
+      "Enabled": true,
+      "Codes": "DD24-AFD7"
+    },
+    {
+      "Description": "Have Axe",
+      "Type": "SnesProActionReplay",
+      "Enabled": false,
+      "Codes": "7E008E02"
+    },
+    {
+      "Description": "Have best whip",
+      "Type": "SnesProActionReplay",
+      "Enabled": false,
+      "Codes": "7E009202"
+    },
+    {
+      "Description": "Have Cross",
+      "Type": "SnesProActionReplay",
+      "Enabled": false,
+      "Codes": "7E008E04"
+    },
+    {
+      "Description": "Have Dagger",
+      "Type": "SnesProActionReplay",
+      "Enabled": false,
+      "Codes": "7E008E01"
+    },
+    {
+      "Description": "Have Dagger",
+      "Type": "SnesProActionReplay",
+      "Enabled": false,
+      "Codes": "7E008E01"
+    },
+    {
+      "Description": "Have Holy Water",
+      "Type": "SnesProActionReplay",
+      "Enabled": false,
+      "Codes": "7E008E03"
+    },
+    {
+      "Description": "Have Stopwatch",
+      "Type": "SnesProActionReplay",
+      "Enabled": false,
+      "Codes": "7E008E05"
+    },
+    {
+      "Description": "Have Triple Shot",
+      "Type": "SnesProActionReplay",
+      "Enabled": true,
+      "Codes": "7E009002"
+    },
+    {
+      "Description": "Hit anywhere (cannot use whip to grab onto things, press Y to moon jump instead)",
+      "Type": "SnesGameGenie",
+      "Enabled": false,
+      "Codes": "B428-AFA4\r\nC728-A4D4\r\nDD2C-A764\r\n6D20-A7A4\r\n6D21-AF64"
+    },
+    {
+      "Description": "Increase heart capacity 2.5 times",
+      "Type": "SnesGameGenie",
+      "Enabled": true,
+      "Codes": "EE2B-6DA7\r\nFC25-64D7\r\nEE26-6767"
+    },
+    {
+      "Description": "Infinite health",
+      "Type": "SnesGameGenie",
+      "Enabled": true,
+      "Codes": "C22F-07D7"
+    },
+    {
+      "Description": "Infinite health (alt)",
+      "Type": "SnesProActionReplay",
+      "Enabled": false,
+      "Codes": "7E13F410"
+    },
+    {
+      "Description": "Infinite health against most enemies",
+      "Type": "SnesGameGenie",
+      "Enabled": false,
+      "Codes": "D22F-07D7"
+    },
+    {
+      "Description": "Infinite hearts",
+      "Type": "SnesProActionReplay",
+      "Enabled": false,
+      "Codes": "7E13F299"
+    },
+    {
+      "Description": "Infinite lives",
+      "Type": "SnesGameGenie",
+      "Enabled": false,
+      "Codes": "C96C-DFD6"
+    },
+    {
+      "Description": "Infinite lives (disable to get password)",
+      "Type": "SnesGameGenie",
+      "Enabled": false,
+      "Codes": "DD6C-DD66"
+    },
+    {
+      "Description": "Infinite shots for most weapons",
+      "Type": "SnesGameGenie",
+      "Enabled": false,
+      "Codes": "A689-0FD7"
+    },
+    {
+      "Description": "Infinite time",
+      "Type": "SnesGameGenie",
+      "Enabled": false,
+      "Codes": "6D6D-DF06"
+    },
+    {
+      "Description": "Infinite time (alt)",
+      "Type": "SnesProActionReplay",
+      "Enabled": false,
+      "Codes": "7E13F099"
+    },
+    {
+      "Description": "Invincibility",
+      "Type": "SnesGameGenie",
+      "Enabled": false,
+      "Codes": "2D2B-6764\r\n2DCD-D764"
+    },
+    {
+      "Description": "Invincibility (blinking)",
+      "Type": "SnesGameGenie",
+      "Enabled": false,
+      "Codes": "608E-D7FB\r\nC92C-6DD4"
+    },
+    {
+      "Description": "Invincibility (blinking) (alt)",
+      "Type": "SnesProActionReplay",
+      "Enabled": false,
+      "Codes": "7E00BC0A"
+    },
+    {
+      "Description": "Max hearts on pick-up",
+      "Type": "SnesGameGenie",
+      "Enabled": true,
+      "Codes": "DD2B-6D07"
+    },
+    {
+      "Description": "Mega-jump",
+      "Type": "SnesGameGenie",
+      "Enabled": false,
+      "Codes": "4DC5-04D4"
+    },
+    {
+      "Description": "Multi-jump (enables invincibility, can jump through walls and fall in pits)",
+      "Type": "SnesGameGenie",
+      "Enabled": true,
+      "Codes": "462B-6D04\r\nDC2B-6D64\r\nBD2B-6DA4\r\nD02B-6FD4\r\n442B-6F04\r\nB42B-6F64\r\nC72B-6FA4\r\nDD2B-64D4\r\n3C2B-6404\r\n186D-DDD6\r\nC28A-A46F\r\n18CF-6D0D"
+    },
+    {
+      "Description": "Slower timer",
+      "Type": "SnesGameGenie",
+      "Enabled": false,
+      "Codes": "5E6D-DDA6"
+    },
+    {
+      "Description": "Start on second playthrough difficulty level",
+      "Type": "SnesProActionReplay",
+      "Enabled": true,
+      "Codes": "7E008801"
+    },
+    {
+      "Description": "Start with 1 life - first game only",
+      "Type": "SnesGameGenie",
+      "Enabled": false,
+      "Codes": "DFB2-D4AF"
+    },
+    {
+      "Description": "Start with 10 lives - first game only",
+      "Type": "SnesGameGenie",
+      "Enabled": false,
+      "Codes": "FDB2-D4AF"
+    },
+    {
+      "Description": "Start with 50 hearts - first life only",
+      "Type": "SnesGameGenie",
+      "Enabled": false,
+      "Codes": "9DB3-D40F"
+    },
+    {
+      "Description": "Start with 99 hearts - first life only",
+      "Type": "SnesGameGenie",
+      "Enabled": false,
+      "Codes": "BBB3-D40F"
+    },
+    {
+      "Description": "Start with and always keep Axe",
+      "Type": "SnesGameGenie",
+      "Enabled": false,
+      "Codes": "CBAA-6DAF\r\nD4AA-6FDF\r\n69AA-6F6F"
+    },
+    {
+      "Description": "Start with and always keep Boomerang",
+      "Type": "SnesGameGenie",
+      "Enabled": false,
+      "Codes": "CBAA-6DAF\r\nD0AA-6FDF\r\n69AA-6F6F"
+    },
+    {
+      "Description": "Start with and always keep Dagger",
+      "Type": "SnesGameGenie",
+      "Enabled": false,
+      "Codes": "CBAA-6DAF\r\nDFAA-6FDF\r\n69AA-6F6F"
+    },
+    {
+      "Description": "Start with and always keep Holy Water",
+      "Type": "SnesGameGenie",
+      "Enabled": false,
+      "Codes": "CBAA-6DAF\r\nD7AA-6FDF\r\n69AA-6F6F"
+    },
+    {
+      "Description": "Start with and always keep Stopwatch",
+      "Type": "SnesGameGenie",
+      "Enabled": false,
+      "Codes": "CBAA-6DAF\r\nD9AA-6FDF\r\n69AA-6F6F"
+    },
+    {
+      "Description": "Super-jump",
+      "Type": "SnesGameGenie",
+      "Enabled": false,
+      "Codes": "FDC5-04D4"
+    }
+  ]
+}

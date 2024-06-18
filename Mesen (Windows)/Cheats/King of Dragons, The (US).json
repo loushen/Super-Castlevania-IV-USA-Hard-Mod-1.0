@@ -1,0 +1,214 @@
+﻿{
+  "Cheats": [
+    {
+      "Description": "Hit anywhere",
+      "Type": "SnesGameGenie",
+      "Enabled": true,
+      "Codes": "6D61-8DA4\r\n6D64-87A4\r\n6D66-87A4\r\n6D6E-54D4\r\n6D6E-5D04"
+    },
+    {
+      "Description": "Infinite credits",
+      "Type": "SnesGameGenie",
+      "Enabled": false,
+      "Codes": "CE05-8F0D"
+    },
+    {
+      "Description": "Infinite health - both players",
+      "Type": "SnesGameGenie",
+      "Enabled": false,
+      "Codes": "C9B5-7FDD"
+    },
+    {
+      "Description": "Infinite health - P1",
+      "Type": "SnesProActionReplay",
+      "Enabled": false,
+      "Codes": "7E0B9A09"
+    },
+    {
+      "Description": "Infinite health - P2",
+      "Type": "SnesProActionReplay",
+      "Enabled": false,
+      "Codes": "7E0C9A09"
+    },
+    {
+      "Description": "Infinite lives - P1",
+      "Type": "SnesProActionReplay",
+      "Enabled": false,
+      "Codes": "7E0BEC09"
+    },
+    {
+      "Description": "Infinite lives - P2",
+      "Type": "SnesProActionReplay",
+      "Enabled": false,
+      "Codes": "7E0CEC09"
+    },
+    {
+      "Description": "Infinite time",
+      "Type": "SnesGameGenie",
+      "Enabled": false,
+      "Codes": "DD0E-EF0D"
+    },
+    {
+      "Description": "Infinite time (alt)",
+      "Type": "SnesProActionReplay",
+      "Enabled": false,
+      "Codes": "7E1F9498"
+    },
+    {
+      "Description": "Infinite time for player select screen",
+      "Type": "SnesProActionReplay",
+      "Enabled": false,
+      "Codes": "7E5C240A"
+    },
+    {
+      "Description": "Invincibility (blinking) - P1",
+      "Type": "SnesProActionReplay",
+      "Enabled": false,
+      "Codes": "7E0BB4FF"
+    },
+    {
+      "Description": "Invincibility (blinking) - P2",
+      "Type": "SnesProActionReplay",
+      "Enabled": false,
+      "Codes": "7E0CB4FF"
+    },
+    {
+      "Description": "Invincibility - both players",
+      "Type": "SnesGameGenie",
+      "Enabled": false,
+      "Codes": "ED76-E4AF"
+    },
+    {
+      "Description": "Max attack - P1",
+      "Type": "SnesProActionReplay",
+      "Enabled": false,
+      "Codes": "7E0BEE07"
+    },
+    {
+      "Description": "Max attack - P2",
+      "Type": "SnesProActionReplay",
+      "Enabled": false,
+      "Codes": "7E0CEE07"
+    },
+    {
+      "Description": "Max defense - P1",
+      "Type": "SnesProActionReplay",
+      "Enabled": false,
+      "Codes": "7E0BF007"
+    },
+    {
+      "Description": "Max defense - P2",
+      "Type": "SnesProActionReplay",
+      "Enabled": false,
+      "Codes": "7E0CF007"
+    },
+    {
+      "Description": "One hit kills",
+      "Type": "SnesGameGenie",
+      "Enabled": true,
+      "Codes": "4069-EF64\r\n4069-E4D4"
+    },
+    {
+      "Description": "Start on stage 10 - Underpass",
+      "Type": "SnesProActionReplay",
+      "Enabled": false,
+      "Codes": "7E065809"
+    },
+    {
+      "Description": "Start on stage 11 - Battle In The Front",
+      "Type": "SnesProActionReplay",
+      "Enabled": false,
+      "Codes": "7E06580A"
+    },
+    {
+      "Description": "Start on stage 12 - Castle Garenos",
+      "Type": "SnesProActionReplay",
+      "Enabled": false,
+      "Codes": "7E06580B"
+    },
+    {
+      "Description": "Start on stage 13 - Dark Wizard",
+      "Type": "SnesProActionReplay",
+      "Enabled": false,
+      "Codes": "7E06580C"
+    },
+    {
+      "Description": "Start on stage 14 - A Cave In The Woods",
+      "Type": "SnesProActionReplay",
+      "Enabled": false,
+      "Codes": "7E06580D"
+    },
+    {
+      "Description": "Start on stage 15 - Underground Labyrinth",
+      "Type": "SnesProActionReplay",
+      "Enabled": false,
+      "Codes": "7E06580E"
+    },
+    {
+      "Description": "Start on stage 16 - Golden Limestone Cave",
+      "Type": "SnesProActionReplay",
+      "Enabled": false,
+      "Codes": "7E06580F"
+    },
+    {
+      "Description": "Start on stage 2 - Treasure In An Old Castle",
+      "Type": "SnesProActionReplay",
+      "Enabled": false,
+      "Codes": "7E065801"
+    },
+    {
+      "Description": "Start on stage 3 - Battle On Mountain Peak",
+      "Type": "SnesProActionReplay",
+      "Enabled": false,
+      "Codes": "7E065802"
+    },
+    {
+      "Description": "Start on stage 4 - Cave Of Hydra",
+      "Type": "SnesProActionReplay",
+      "Enabled": false,
+      "Codes": "7E065803"
+    },
+    {
+      "Description": "Start on stage 5 - To The Norde Isle",
+      "Type": "SnesProActionReplay",
+      "Enabled": false,
+      "Codes": "7E065804"
+    },
+    {
+      "Description": "Start on stage 6 - The Giant In The Shrine",
+      "Type": "SnesProActionReplay",
+      "Enabled": false,
+      "Codes": "7E065805"
+    },
+    {
+      "Description": "Start on stage 7 - Trent Woods",
+      "Type": "SnesProActionReplay",
+      "Enabled": false,
+      "Codes": "7E065806"
+    },
+    {
+      "Description": "Start on stage 8 - To The Castle",
+      "Type": "SnesProActionReplay",
+      "Enabled": false,
+      "Codes": "7E065807"
+    },
+    {
+      "Description": "Start on stage 9 - In The Castle",
+      "Type": "SnesProActionReplay",
+      "Enabled": false,
+      "Codes": "7E065808"
+    },
+    {
+      "Description": "Start with level 6 Shield",
+      "Type": "SnesGameGenie",
+      "Enabled": true,
+      "Codes": "6355-E7AD\r\n6956-EF6D"
+    },
+    {
+      "Description": "Start with level 6 Sword",
+      "Type": "SnesGameGenie",
+      "Enabled": true,
+      "Codes": "6351-E40D\r\n6955-EDDD"
+    }
+  ]
+}

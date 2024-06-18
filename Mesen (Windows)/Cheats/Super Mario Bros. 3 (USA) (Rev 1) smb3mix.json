@@ -1,0 +1,364 @@
+﻿{
+  "Cheats": [
+    {
+      "Description": "1 life after continue - both players",
+      "Type": "NesGameGenie",
+      "Enabled": false,
+      "Codes": "AEKPTZGA"
+    },
+    {
+      "Description": "1-up for each 10 coins",
+      "Type": "NesGameGenie",
+      "Enabled": false,
+      "Codes": "ZEEULAGV\r\nZEOLAAGV"
+    },
+    {
+      "Description": "1-up for each coin",
+      "Type": "NesGameGenie",
+      "Enabled": false,
+      "Codes": "PEEULAGT\r\nPEOLAAGT"
+    },
+    {
+      "Description": "1-Up from every enemy you stomp",
+      "Type": "NesGameGenie",
+      "Enabled": false,
+      "Codes": "ZITGAG"
+    },
+    {
+      "Description": "9 lives after continue - both players",
+      "Type": "NesGameGenie",
+      "Enabled": false,
+      "Codes": "AEKPTZGE"
+    },
+    {
+      "Description": "Always get a White Ship after passing a level",
+      "Type": "NesGameGenie",
+      "Enabled": false,
+      "Codes": "LGNXKGPL"
+    },
+    {
+      "Description": "Change to Fire Mario if you fall off screen and die",
+      "Type": "NesGameGenie",
+      "Enabled": false,
+      "Codes": "AEOSSZPA\r\nZAOZTGAA"
+    },
+    {
+      "Description": "Change to Frog Mario if you fall off screen and die",
+      "Type": "NesGameGenie",
+      "Enabled": false,
+      "Codes": "AEOSSZPA\r\nGAOZTGAA"
+    },
+    {
+      "Description": "Change to Raccoon Mario if you fall off screen and die",
+      "Type": "NesGameGenie",
+      "Enabled": false,
+      "Codes": "AEOSSZPA\r\nLAOZTGAA"
+    },
+    {
+      "Description": "Change to Sledgehammer Mario if you fall off screen and die",
+      "Type": "NesGameGenie",
+      "Enabled": false,
+      "Codes": "AEOSSZPA\r\nTAOZTGAA"
+    },
+    {
+      "Description": "Change to Super Mario if you fall off screen and die",
+      "Type": "NesGameGenie",
+      "Enabled": false,
+      "Codes": "AEOSSZPA\r\nPAOZTGAA"
+    },
+    {
+      "Description": "Change to Tanooki Mario if you fall off screen and die",
+      "Type": "NesGameGenie",
+      "Enabled": false,
+      "Codes": "AEOSSZPA\r\nIAOZTGAA"
+    },
+    {
+      "Description": "Fireballs hit anywhere",
+      "Type": "NesGameGenie",
+      "Enabled": false,
+      "Codes": "AEXXYVIG\r\nAEXZAVUG"
+    },
+    {
+      "Description": "Fireballs turn most solid objects into coins",
+      "Type": "NesGameGenie",
+      "Enabled": false,
+      "Codes": "AAKXTIYP\r\nAAVZAIIA"
+    },
+    {
+      "Description": "Infinite items - Mario",
+      "Type": "NesGameGenie",
+      "Enabled": false,
+      "Codes": "YPXXLVGE"
+    },
+    {
+      "Description": "Infinite lives - both players",
+      "Type": "NesGameGenie",
+      "Enabled": false,
+      "Codes": "SLXPLOVS"
+    },
+    {
+      "Description": "Infinite time",
+      "Type": "NesGameGenie",
+      "Enabled": false,
+      "Codes": "SXUZENVK"
+    },
+    {
+      "Description": "Invincibility (Starman effect)",
+      "Type": "NesGameGenie",
+      "Enabled": false,
+      "Codes": "AEVGEVZZ"
+    },
+    {
+      "Description": "Invincibility after changing up from Super Mario (Raccoon, Frog, ect.)",
+      "Type": "NesGameGenie",
+      "Enabled": false,
+      "Codes": "SZKIKXSE"
+    },
+    {
+      "Description": "Invincibility as Fire Mario",
+      "Type": "NesGameGenie",
+      "Enabled": false,
+      "Codes": "UXKXGLIA"
+    },
+    {
+      "Description": "Invincibility as Fire Mario (alt)",
+      "Type": "NesCustom",
+      "Enabled": false,
+      "Codes": "00ED:02"
+    },
+    {
+      "Description": "Invincibility as Frog Mario",
+      "Type": "NesGameGenie",
+      "Enabled": false,
+      "Codes": "OUKXGLIE"
+    },
+    {
+      "Description": "Invincibility as Frog Mario (alt)",
+      "Type": "NesCustom",
+      "Enabled": false,
+      "Codes": "00ED:04"
+    },
+    {
+      "Description": "Invincibility as miniture stone Mario",
+      "Type": "NesGameGenie",
+      "Enabled": false,
+      "Codes": "EXKXGLIA"
+    },
+    {
+      "Description": "Invincibility as Raccoon Mario",
+      "Type": "NesGameGenie",
+      "Enabled": false,
+      "Codes": "NXKXGLIE"
+    },
+    {
+      "Description": "Invincibility as Raccoon Mario (alt)",
+      "Type": "NesCustom",
+      "Enabled": false,
+      "Codes": "00ED:03"
+    },
+    {
+      "Description": "Invincibility as Sledgehammer Mario",
+      "Type": "NesGameGenie",
+      "Enabled": false,
+      "Codes": "XNKXGLIE"
+    },
+    {
+      "Description": "Invincibility as Sledgehammer Mario (alt)",
+      "Type": "NesCustom",
+      "Enabled": false,
+      "Codes": "00ED:06"
+    },
+    {
+      "Description": "Invincibility as Super Mario",
+      "Type": "NesGameGenie",
+      "Enabled": false,
+      "Codes": "XUKXGLIE"
+    },
+    {
+      "Description": "Invincibility as Super Mario (alt)",
+      "Type": "NesCustom",
+      "Enabled": false,
+      "Codes": "00ED:01"
+    },
+    {
+      "Description": "Invincibility as Tanooki",
+      "Type": "NesCustom",
+      "Enabled": false,
+      "Codes": "00ED:05"
+    },
+    {
+      "Description": "Mega power-jumps",
+      "Type": "NesGameGenie",
+      "Enabled": false,
+      "Codes": "EAKZYVEK"
+    },
+    {
+      "Description": "Move anywhere on the map",
+      "Type": "NesGameGenie",
+      "Enabled": true,
+      "Codes": "OXKIPZOS\r\nAPKSALAZ"
+    },
+    {
+      "Description": "Multi-jump",
+      "Type": "NesGameGenie",
+      "Enabled": true,
+      "Codes": "SXEZSKOZ"
+    },
+    {
+      "Description": "Multi-jump (alt 2)",
+      "Type": "NesGameGenie",
+      "Enabled": false,
+      "Codes": "GZUXNGEI"
+    },
+    {
+      "Description": "Multi-jump (alt)",
+      "Type": "NesGameGenie",
+      "Enabled": false,
+      "Codes": "SXEZSKOX"
+    },
+    {
+      "Description": "P meter always full",
+      "Type": "NesCustom",
+      "Enabled": false,
+      "Codes": "03DD:7F"
+    },
+    {
+      "Description": "Power-jumps",
+      "Type": "NesGameGenie",
+      "Enabled": false,
+      "Codes": "ELKZYVEK"
+    },
+    {
+      "Description": "Press Start to complete level (do not use on final ship/castle level for each map)",
+      "Type": "NesGameGenie",
+      "Enabled": false,
+      "Codes": "AANAOTLA\r\nGPNAETTY"
+    },
+    {
+      "Description": "Raise P meter while standing still (hold B)",
+      "Type": "NesGameGenie",
+      "Enabled": false,
+      "Codes": "AANZKLLA"
+    },
+    {
+      "Description": "Restore powers after playing an action scene",
+      "Type": "NesGameGenie",
+      "Enabled": false,
+      "Codes": "SZUEXNSO"
+    },
+    {
+      "Description": "Start a new game as Fire Mario",
+      "Type": "NesGameGenie",
+      "Enabled": false,
+      "Codes": "ZEUXKGAA"
+    },
+    {
+      "Description": "Start a new game as Frog Mario",
+      "Type": "NesGameGenie",
+      "Enabled": false,
+      "Codes": "GEUXKGAA"
+    },
+    {
+      "Description": "Start a new game as Raccoon Mario",
+      "Type": "NesGameGenie",
+      "Enabled": false,
+      "Codes": "LEUXKGAA"
+    },
+    {
+      "Description": "Start a new game as Sledgehammer Mario",
+      "Type": "NesGameGenie",
+      "Enabled": false,
+      "Codes": "TEUXKGAA"
+    },
+    {
+      "Description": "Start a new game as Tanooki Mario",
+      "Type": "NesGameGenie",
+      "Enabled": false,
+      "Codes": "IEUXKGAA"
+    },
+    {
+      "Description": "Start a new game to see the ending",
+      "Type": "NesGameGenie",
+      "Enabled": false,
+      "Codes": "NKGZSO"
+    },
+    {
+      "Description": "Start on World 2",
+      "Type": "NesGameGenie",
+      "Enabled": false,
+      "Codes": "PEUZUGAA"
+    },
+    {
+      "Description": "Start on World 3",
+      "Type": "NesGameGenie",
+      "Enabled": false,
+      "Codes": "ZEUZUGAA"
+    },
+    {
+      "Description": "Start on World 4",
+      "Type": "NesGameGenie",
+      "Enabled": false,
+      "Codes": "LEUZUGAA"
+    },
+    {
+      "Description": "Start on World 5",
+      "Type": "NesGameGenie",
+      "Enabled": false,
+      "Codes": "GEUZUGAA"
+    },
+    {
+      "Description": "Start on World 6",
+      "Type": "NesGameGenie",
+      "Enabled": false,
+      "Codes": "IEUZUGAA"
+    },
+    {
+      "Description": "Start on World 7",
+      "Type": "NesGameGenie",
+      "Enabled": false,
+      "Codes": "TEUZUGAA"
+    },
+    {
+      "Description": "Start on World 8",
+      "Type": "NesGameGenie",
+      "Enabled": false,
+      "Codes": "YEUZUGAA"
+    },
+    {
+      "Description": "Super power-jumps",
+      "Type": "NesGameGenie",
+      "Enabled": false,
+      "Codes": "EZKZYVEK"
+    },
+    {
+      "Description": "Super speed running",
+      "Type": "NesGameGenie",
+      "Enabled": false,
+      "Codes": "OXKZELSX"
+    },
+    {
+      "Description": "Tail hits anywhere",
+      "Type": "NesGameGenie",
+      "Enabled": false,
+      "Codes": "GZSSOLEP"
+    },
+    {
+      "Description": "Turbo-charged running",
+      "Type": "NesGameGenie",
+      "Enabled": false,
+      "Codes": "XVUXNUEE"
+    },
+    {
+      "Description": "Unused level - Plains 1",
+      "Type": "NesGameGenie",
+      "Enabled": false,
+      "Codes": "GGNUGGXE\r\nNZNUIKUL"
+    },
+    {
+      "Description": "Unused level - Plains 2",
+      "Type": "NesGameGenie",
+      "Enabled": false,
+      "Codes": "KZNUGGXE\r\nOZNUIKUL"
+    }
+  ]
+}

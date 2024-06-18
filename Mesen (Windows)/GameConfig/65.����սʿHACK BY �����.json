@@ -1,0 +1,10 @@
+﻿{
+  "DipSwitches": 0,
+  "OverrideOverscan": true,
+  "Overscan": {
+    "Left": 0,
+    "Right": 0,
+    "Top": 0,
+    "Bottom": 0
+  }
+}

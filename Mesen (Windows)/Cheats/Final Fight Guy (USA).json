@@ -1,0 +1,136 @@
+﻿{
+  "Cheats": [
+    {
+      "Description": "Always get Knife",
+      "Type": "SnesProActionReplay",
+      "Enabled": false,
+      "Codes": "7E1C1100"
+    },
+    {
+      "Description": "Always get Pipe",
+      "Type": "SnesProActionReplay",
+      "Enabled": false,
+      "Codes": "7E1C1104"
+    },
+    {
+      "Description": "Always get Sword",
+      "Type": "SnesProActionReplay",
+      "Enabled": true,
+      "Codes": "7E1C1102"
+    },
+    {
+      "Description": "Any food restores all health",
+      "Type": "SnesGameGenie",
+      "Enabled": false,
+      "Codes": "DDBD-6F06"
+    },
+    {
+      "Description": "Attack speed greatly increased",
+      "Type": "SnesGameGenie",
+      "Enabled": true,
+      "Codes": "DFDF-9E88"
+    },
+    {
+      "Description": "Boss have no health",
+      "Type": "SnesProActionReplay",
+      "Enabled": true,
+      "Codes": "7E11F400\r\n7E11F500"
+    },
+    {
+      "Description": "Enemies never get knocked down, hit them until they die",
+      "Type": "SnesProActionReplay",
+      "Enabled": false,
+      "Codes": "7E0D7000"
+    },
+    {
+      "Description": "Enemy 1 has no health",
+      "Type": "SnesProActionReplay",
+      "Enabled": true,
+      "Codes": "7E101400"
+    },
+    {
+      "Description": "Enemy 2 has no health",
+      "Type": "SnesProActionReplay",
+      "Enabled": true,
+      "Codes": "7E10B400"
+    },
+    {
+      "Description": "Enemy 3 has no health",
+      "Type": "SnesProActionReplay",
+      "Enabled": true,
+      "Codes": "7E115400"
+    },
+    {
+      "Description": "Gain 9 lives every time you die",
+      "Type": "SnesGameGenie",
+      "Enabled": true,
+      "Codes": "DDC0-ADA6"
+    },
+    {
+      "Description": "Hit anywhere",
+      "Type": "SnesGameGenie",
+      "Enabled": true,
+      "Codes": "40A3-DD00\r\n40AA-DFA0"
+    },
+    {
+      "Description": "Infinite health",
+      "Type": "SnesGameGenie",
+      "Enabled": true,
+      "Codes": "89AF-0401"
+    },
+    {
+      "Description": "Infinite health (alt)",
+      "Type": "SnesGameGenie",
+      "Enabled": false,
+      "Codes": "9DDF-9278"
+    },
+    {
+      "Description": "Infinite time",
+      "Type": "SnesGameGenie",
+      "Enabled": false,
+      "Codes": "1DC3-6409"
+    },
+    {
+      "Description": "Infinite time (alt)",
+      "Type": "SnesGameGenie",
+      "Enabled": false,
+      "Codes": "DBD8-FE78"
+    },
+    {
+      "Description": "No health lost from spin kick",
+      "Type": "SnesGameGenie",
+      "Enabled": false,
+      "Codes": "89CB-AD0C"
+    },
+    {
+      "Description": "Start on bonus stage - Car",
+      "Type": "SnesProActionReplay",
+      "Enabled": false,
+      "Codes": "7EFFFE06"
+    },
+    {
+      "Description": "Start on stage 2 - Subway",
+      "Type": "SnesProActionReplay",
+      "Enabled": false,
+      "Codes": "7EFFFE01"
+    },
+    {
+      "Description": "Start on stage 3 - West Side",
+      "Type": "SnesProActionReplay",
+      "Enabled": false,
+      "Codes": "7EFFFE02"
+    },
+    {
+      "Description": "Start on stage 4 - Bay Area",
+      "Type": "SnesProActionReplay",
+      "Enabled": false,
+      "Codes": "7EFFFE04"
+    },
+    {
+      "Description": "Start on stage 5 - Uptown",
+      "Type": "SnesProActionReplay",
+      "Enabled": false,
+      "Codes": "7EFFFE05"
+    }
+  ]
+}
