@@ -8568,6 +8568,66 @@
     "Items": [
       {
         "RomFile": {
+          "Path": "D:\\Backup\\Downloads\\Super-Castlevania-IV-USA-Hard-Mod-1.0\\Castlevania (USA)\\[7158]Castlevania\u002BRetold\u002BII\u002Bv1.0\u002B(Castlevania\u002Bhack)\\Castlevania (USA) (patched).nes",
+          "InnerFile": "",
+          "InnerFileIndex": 0
+        },
+        "PatchFile": null
+      },
+      {
+        "RomFile": {
+          "Path": "D:\\Backup\\Downloads\\Super-Castlevania-IV-USA-Hard-Mod-1.0\\Castlevania (USA)\\Castlevania (USA).nes",
+          "InnerFile": "",
+          "InnerFileIndex": 0
+        },
+        "PatchFile": null
+      },
+      {
+        "RomFile": {
+          "Path": "D:\\Backup\\Downloads\\Super-Castlevania-IV-USA-Hard-Mod-1.0\\Castlevania (USA)\\[6617]Castlevania\u002BUSR\u002Bv3.1\\Castlevania (USA) (USR v3.1).nes",
+          "InnerFile": "",
+          "InnerFileIndex": 0
+        },
+        "PatchFile": null
+      },
+      {
+        "RomFile": {
+          "Path": "D:\\Backup\\Downloads\\Castlevania (USA) (patched).nes",
+          "InnerFile": "",
+          "InnerFileIndex": 0
+        },
+        "PatchFile": null
+      },
+      {
+        "RomFile": {
+          "Path": "D:\\Backup\\Downloads\\Super-Castlevania-IV-USA-Hard-Mod-1.0\\Castlevania (USA)\\rsc\\Red Sky Original 1.0.nes",
+          "InnerFile": "",
+          "InnerFileIndex": 0
+        },
+        "PatchFile": {
+          "Path": "D:\\Backup\\Downloads\\Super-Castlevania-IV-USA-Hard-Mod-1.0\\Castlevania (USA)\\rsc\\Red Sky Original 1.0.ips",
+          "InnerFile": "",
+          "InnerFileIndex": 0
+        }
+      },
+      {
+        "RomFile": {
+          "Path": "D:\\Backup\\Downloads\\Super-Castlevania-IV-USA-Hard-Mod-1.0\\Castlevania III_ Dracula\u0027s Curse\\[4229]Castlevania\u002BIII\u002B-\u002BCarmilla\u0027s\u002BEdition\u002B(USA)\u002B1\u00274\\Castlevania III - Dracula\u0027s Curse (USA) (Carmilla\u0027s Edition).nes",
+          "InnerFile": "",
+          "InnerFileIndex": 0
+        },
+        "PatchFile": null
+      },
+      {
+        "RomFile": {
+          "Path": "D:\\Backup\\Downloads\\Super-Castlevania-IV-USA-Hard-Mod-1.0\\Castlevania III_ Dracula\u0027s Curse\\[4538]Gold\u002Bedition\\Castlevania III - Dracula\u0027s Curse (USA) (Gold edition).nes",
+          "InnerFile": "",
+          "InnerFileIndex": 0
+        },
+        "PatchFile": null
+      },
+      {
+        "RomFile": {
           "Path": "D:\\Backup\\Downloads\\Compressed\\Super-Castlevania-IV-USA-Hard-Mod-1.0\\[4735]CV3-LV-z1\\Castlevania III - Dracula\u0027s Curse (USA) (patched).nes",
           "InnerFile": "",
           "InnerFileIndex": 0
@@ -8585,22 +8645,6 @@
       {
         "RomFile": {
           "Path": "D:\\Backup\\Downloads\\Compressed\\Super-Castlevania-IV-USA-Hard-Mod-1.0\\SuperCastlevaniaIV RomHack\\[4716]Super\u002BCastlevania\u002BIV\u002B-\u002BAlter\u002BQuest\\SuperCastlevaniaIV_AlterQuest v1.2b.sfc",
-          "InnerFile": "",
-          "InnerFileIndex": 0
-        },
-        "PatchFile": null
-      },
-      {
-        "RomFile": {
-          "Path": "D:\\Backup\\Downloads\\Compressed\\Super-Castlevania-IV-USA-Hard-Mod-1.0\\SuperCastlevaniaIV RomHack\\[3411]Super\u002BCastlevania\u002BIV\u002BOther\u002BCastle\\SuperCastlevaniaIVOtherCastleNormal.sfc",
-          "InnerFile": "",
-          "InnerFileIndex": 0
-        },
-        "PatchFile": null
-      },
-      {
-        "RomFile": {
-          "Path": "D:\\Backup\\Downloads\\Compressed\\Super-Castlevania-IV-USA-Hard-Mod-1.0\\SuperCastlevaniaIV RomHack\\[3411]Super\u002BCastlevania\u002BIV\u002BOther\u002BCastle\\SuperCastlevaniaIVOtherCastleEasy.sfc",
           "InnerFile": "",
           "InnerFileIndex": 0
         },
@@ -8637,11 +8681,11 @@
     ],
     "WindowSize": {
       "Width": 616,
-      "Height": 473
+      "Height": 434
     },
     "WindowLocation": {
-      "X": 2792,
-      "Y": 501
+      "X": 127,
+      "Y": 595
     },
     "WindowIsMaximized": false
   },
@@ -8670,8 +8714,8 @@
       "Height": 1225
     },
     "WindowLocation": {
-      "X": 1439,
-      "Y": 98
+      "X": 1590,
+      "Y": 70
     },
     "WindowIsMaximized": false
   },

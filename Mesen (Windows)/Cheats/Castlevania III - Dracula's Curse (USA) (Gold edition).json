@@ -1,0 +1,310 @@
+﻿{
+  "Cheats": [
+    {
+      "Description": "Alucard has best attack",
+      "Type": "NesCustom",
+      "Enabled": false,
+      "Codes": "008F:02"
+    },
+    {
+      "Description": "Bosses have no health",
+      "Type": "NesGameGenie",
+      "Enabled": false,
+      "Codes": "AAUPLLAG"
+    },
+    {
+      "Description": "Enable Alucard",
+      "Type": "NesCustom",
+      "Enabled": false,
+      "Codes": "003A:03"
+    },
+    {
+      "Description": "Enable Grant",
+      "Type": "NesCustom",
+      "Enabled": false,
+      "Codes": "003A:02"
+    },
+    {
+      "Description": "Enable Sypha",
+      "Type": "NesCustom",
+      "Enabled": false,
+      "Codes": "003A:01"
+    },
+    {
+      "Description": "Grant Danasty\u0027s sub-weapon - Axe",
+      "Type": "NesCustom",
+      "Enabled": false,
+      "Codes": "0086:09"
+    },
+    {
+      "Description": "Grant Danasty\u0027s sub-weapon - Clock",
+      "Type": "NesCustom",
+      "Enabled": false,
+      "Codes": "0086:0B"
+    },
+    {
+      "Description": "Grant Danasty\u0027s sub-weapon - Dagger",
+      "Type": "NesCustom",
+      "Enabled": false,
+      "Codes": "0086:08"
+    },
+    {
+      "Description": "Have Triple Shot (III)",
+      "Type": "NesCustom",
+      "Enabled": true,
+      "Codes": "0087:02"
+    },
+    {
+      "Description": "High jump",
+      "Type": "NesGameGenie",
+      "Enabled": false,
+      "Codes": "LAUPLVPA"
+    },
+    {
+      "Description": "Hit anywhere (Whip)",
+      "Type": "NesGameGenie",
+      "Enabled": false,
+      "Codes": "AEELYXAP"
+    },
+    {
+      "Description": "Infinite health",
+      "Type": "NesGameGenie",
+      "Enabled": false,
+      "Codes": "OXEEZZSE"
+    },
+    {
+      "Description": "Infinite health (alt)",
+      "Type": "NesCustom",
+      "Enabled": false,
+      "Codes": "003C:40"
+    },
+    {
+      "Description": "Infinite hearts",
+      "Type": "NesCustom",
+      "Enabled": false,
+      "Codes": "0084:99"
+    },
+    {
+      "Description": "Infinite hearts",
+      "Type": "NesGameGenie",
+      "Enabled": false,
+      "Codes": "OPELUZEP"
+    },
+    {
+      "Description": "Infinite lives",
+      "Type": "NesGameGenie",
+      "Enabled": false,
+      "Codes": "OXOAUPSE"
+    },
+    {
+      "Description": "Infinite lives (alt)",
+      "Type": "NesCustom",
+      "Enabled": false,
+      "Codes": "0035:99"
+    },
+    {
+      "Description": "Invincibility (blinking) (disable if you cannot enter a door)",
+      "Type": "NesCustom",
+      "Enabled": true,
+      "Codes": "0080:02"
+    },
+    {
+      "Description": "Invincibility (disable if you cannot enter a door)",
+      "Type": "NesGameGenie",
+      "Enabled": false,
+      "Codes": "EIOAZPEY"
+    },
+    {
+      "Description": "Invincibility (disable if you cannot enter a door) (alt)",
+      "Type": "NesGameGenie",
+      "Enabled": false,
+      "Codes": "SZKLPZSA"
+    },
+    {
+      "Description": "Multi-jump",
+      "Type": "NesGameGenie",
+      "Enabled": false,
+      "Codes": "AVVAELAP\r\nEISOKAIV\r\nEPSPKAEL\r\nIASONATZ\r\nIASOXEGA\r\nIAVPOEAA\r\nOZSOOAES\r\nPSSPINYG\r\nPSVPYUYG\r\nSASOUESX\r\nSASPVESX\r\nSZSPOAGA\r\nSZUPOASA\r\nTZSPXEOG\r\nZASPUEAE"
+    },
+    {
+      "Description": "No knock-back when hurt",
+      "Type": "NesGameGenie",
+      "Enabled": false,
+      "Codes": "ATUEGXSA"
+    },
+    {
+      "Description": "Remove invincibility blinking",
+      "Type": "NesCustom",
+      "Enabled": false,
+      "Codes": "001A:00"
+    },
+    {
+      "Description": "Start each stage with 99 hearts",
+      "Type": "NesGameGenie",
+      "Enabled": true,
+      "Codes": "OOKPPAIE"
+    },
+    {
+      "Description": "Start on stage 02 (glitchy if you die)",
+      "Type": "NesCustom",
+      "Enabled": false,
+      "Codes": "0032:01"
+    },
+    {
+      "Description": "Start on stage 03 (glitchy if you die)",
+      "Type": "NesCustom",
+      "Enabled": false,
+      "Codes": "0032:02"
+    },
+    {
+      "Description": "Start on stage 04 (glitchy if you die)",
+      "Type": "NesCustom",
+      "Enabled": false,
+      "Codes": "0032:03"
+    },
+    {
+      "Description": "Start on stage 05 (glitchy if you die)",
+      "Type": "NesCustom",
+      "Enabled": false,
+      "Codes": "0032:04"
+    },
+    {
+      "Description": "Start on stage 06 (glitchy if you die)",
+      "Type": "NesCustom",
+      "Enabled": false,
+      "Codes": "0032:05"
+    },
+    {
+      "Description": "Start on stage 07 (glitchy if you die)",
+      "Type": "NesCustom",
+      "Enabled": false,
+      "Codes": "0032:06"
+    },
+    {
+      "Description": "Start on stage 08 (glitchy if you die)",
+      "Type": "NesCustom",
+      "Enabled": false,
+      "Codes": "0032:07"
+    },
+    {
+      "Description": "Start on stage 09 (glitchy if you die)",
+      "Type": "NesCustom",
+      "Enabled": false,
+      "Codes": "0032:08"
+    },
+    {
+      "Description": "Start on stage 10 (glitchy if you die)",
+      "Type": "NesCustom",
+      "Enabled": false,
+      "Codes": "0032:09"
+    },
+    {
+      "Description": "Start on stage 11 (glitchy if you die)",
+      "Type": "NesCustom",
+      "Enabled": false,
+      "Codes": "0032:0A"
+    },
+    {
+      "Description": "Start on stage 12 (glitchy if you die)",
+      "Type": "NesCustom",
+      "Enabled": false,
+      "Codes": "0032:0B"
+    },
+    {
+      "Description": "Start on stage 13 (glitchy if you die)",
+      "Type": "NesCustom",
+      "Enabled": false,
+      "Codes": "0032:0C"
+    },
+    {
+      "Description": "Start on stage 14 (glitchy if you die)",
+      "Type": "NesCustom",
+      "Enabled": false,
+      "Codes": "0032:0D"
+    },
+    {
+      "Description": "Start on stage 15 (glitchy if you die)",
+      "Type": "NesCustom",
+      "Enabled": false,
+      "Codes": "0032:0E"
+    },
+    {
+      "Description": "Start with 9500 seconds",
+      "Type": "NesGameGenie",
+      "Enabled": false,
+      "Codes": "PALUYL"
+    },
+    {
+      "Description": "Sypha Belnades\u0027 sub-weapon - Fire Spell",
+      "Type": "NesCustom",
+      "Enabled": false,
+      "Codes": "0086:05"
+    },
+    {
+      "Description": "Sypha Belnades\u0027 sub-weapon - Ice Spell",
+      "Type": "NesCustom",
+      "Enabled": false,
+      "Codes": "0086:06"
+    },
+    {
+      "Description": "Sypha Belnades\u0027 sub-weapon - Lightning Spell",
+      "Type": "NesCustom",
+      "Enabled": false,
+      "Codes": "0086:07"
+    },
+    {
+      "Description": "Trevor Belmont has best Whip",
+      "Type": "NesCustom",
+      "Enabled": false,
+      "Codes": "008E:02"
+    },
+    {
+      "Description": "Trevor Belmont\u0027s sub-weapon - Axe",
+      "Type": "NesCustom",
+      "Enabled": false,
+      "Codes": "0085:01"
+    },
+    {
+      "Description": "Trevor Belmont\u0027s sub-weapon - Clock",
+      "Type": "NesCustom",
+      "Enabled": false,
+      "Codes": "0085:0B"
+    },
+    {
+      "Description": "Trevor Belmont\u0027s sub-weapon - Cross",
+      "Type": "NesCustom",
+      "Enabled": true,
+      "Codes": "0085:02"
+    },
+    {
+      "Description": "Trevor Belmont\u0027s sub-weapon - Dagger",
+      "Type": "NesCustom",
+      "Enabled": false,
+      "Codes": "0085:03"
+    },
+    {
+      "Description": "Trevor Belmont\u0027s sub-weapon - Holy Water",
+      "Type": "NesCustom",
+      "Enabled": false,
+      "Codes": "0085:04"
+    },
+    {
+      "Description": "Walk through most walls",
+      "Type": "NesGameGenie",
+      "Enabled": false,
+      "Codes": "AEVOZTTA\r\nAEVPPVYA\r\nAAOOIYUI\r\nAAXPTNXG"
+    },
+    {
+      "Description": "Walk twice as fast to the left",
+      "Type": "NesGameGenie",
+      "Enabled": false,
+      "Codes": "VYXOANNN"
+    },
+    {
+      "Description": "Walk twice as fast to the right",
+      "Type": "NesGameGenie",
+      "Enabled": false,
+      "Codes": "ZEVOGTPA"
+    }
+  ]
+}
